@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Ok-md";
+    src: url("fonts/Okomito-Medium.woff");
+}
+
+html,
+body {
+    font-family: "Ok-md"!important;
+    background-color: rgb(250, 250, 250);
+    min-width: 100vh;
+}
+
+
+.login {
+  max-width: 360px;
+  margin: 0 auto;
+}
